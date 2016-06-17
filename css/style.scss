@@ -40,7 +40,6 @@ body {
 	float: left;
 	position: relative;
 	top: 0;
-	text-shadow: 0px -2px 0px #727272;
 	@include user-select(none);
 }
 
@@ -52,20 +51,19 @@ body {
 	text-align: right;
 	overflow: hidden;
 	box-shadow: inset 0px 5px 0px 0px #727272;
-}
-
-.button, .spacer-button{
-	background: #536DFE;
-	width: 23%;
+	text-shadow: 0px 2px 0px #727272;
 }
 
 .button{
+	background: #536DFE;
+	width: 23%;
 	cursor: pointer;
 	box-shadow: inset 0px -5px 0px 0px #303F9F;
 	position: relative;
 	color: #FFF;
 	text-align: center;
 	transition: all .1s ease-in-out;
+	text-shadow: 0px -2px 0px #727272;
 	&:nth-child(4n+7){
 		clear: left;
 	}
