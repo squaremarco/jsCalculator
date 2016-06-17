@@ -1,9 +1,12 @@
 #jsCalculator
-Calculator for FreeCodeCamp challenge: https://www.freecodecamp.com/challenges/build-a-javascript-calculator
+Calculator for FreeCodeCamp zipline: https://www.freecodecamp.com/challenges/build-a-javascript-calculator
 
-#Preview
-![](https://github.com/squaremarco/jsCalculator/blob/master/preview.png)
+#Preview as 17-jun-16
+![](preview.png)
 
 Extensions used:
 * [Mathjs](http://mathjs.org/)
-* [Ender-Jeesh](http://enderjs.com/) - includes: domReady, qwery, bonzo, bean
+* [domReady](https://github.com/ded/domready)
+* [bonzo](https://github.com/ded/bonzo)
+* [qwery](https://github.com/ded/qwery)
+* [bean](https://github.com/fat/bean)
