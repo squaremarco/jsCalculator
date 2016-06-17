@@ -1,7 +1,7 @@
 #jsCalculator
 Calculator for FreeCodeCamp zipline: https://www.freecodecamp.com/challenges/build-a-javascript-calculator
 
-#Preview as 17-jun-16
+#Preview as of 17-jun-16
 ![](preview.png)
 
 Extensions used:
